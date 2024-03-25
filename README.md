@@ -40,9 +40,6 @@ You can monitor the gas concentration readings via the serial monitor in the Ard
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
@@ -51,4 +48,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or inquiries, please contact me at [sabari](sabari8956@gmail.com).
+If you have any questions or inquiries, please contact me at [sabari][sabari8956@gmail.com].
