@@ -48,4 +48,4 @@ Contributions to this project are welcome! If you find any issues or have sugges
 
 ## Contact
 
-If you have any questions or inquiries, please contact me at [sabari][sabari8956@gmail.com].
+If you have any questions or inquiries, please contact me at [sabari8956@gmail.com].
